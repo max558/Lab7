@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Треугольники", "01 - Треугольники\01 - Треугольники.csproj", "{CCA9BF84-5289-4385-BFCF-76BF936E2997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Куб", "02 - Куб\02 - Куб.csproj", "{81B1F243-CA8A-4D4A-8BA3-CF9BC4178229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA9BF84-5289-4385-BFCF-76BF936E2997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA9BF84-5289-4385-BFCF-76BF936E2997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA9BF84-5289-4385-BFCF-76BF936E2997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA9BF84-5289-4385-BFCF-76BF936E2997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B1F243-CA8A-4D4A-8BA3-CF9BC4178229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B1F243-CA8A-4D4A-8BA3-CF9BC4178229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B1F243-CA8A-4D4A-8BA3-CF9BC4178229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B1F243-CA8A-4D4A-8BA3-CF9BC4178229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160913A2-9EB3-4A58-9BE7-25CB66CF11CA}
+	EndGlobalSection
+EndGlobal
